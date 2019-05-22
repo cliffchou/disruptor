@@ -147,8 +147,8 @@ A High Performance Inter-Thread Messaging Library
 - Add RingBuffer.claimAndGetPreallocated
 - Add RingBuffer.isPublished
 
-### 3.0.0.beta1 Released (3-Jan-2013)
-
+### 3.0.0.beta1 Released (3-Jan-2013)  CLIFFZHOU
+       
 - Remove claim strategies and replace with Publishers/Sequences, remove pluggability of claim strategies.
 - Introduce new multi-producer publisher algorithm (faster and more scalable).
 - Introduce more flexible EventPublisher interface that allow for static definition of translators
